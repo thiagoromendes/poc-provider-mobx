@@ -30,9 +30,9 @@ Provendo reatividade com estados globais e uso do padrão de projeto Observer
 
 - Implementa gerenciamento de estado com padrão de projeto Observer
 - Três pilares:
-    -- Action (manipulação do estado)
-    -- Observable (estado)
-    -- Reaction (efeitos da alteração do estado – Observer)
+    - Action (manipulação do estado)
+    - Observable (estado)
+    - Reaction (efeitos da alteração do estado – Observer)
 
 ### Provider + Mobx
 
