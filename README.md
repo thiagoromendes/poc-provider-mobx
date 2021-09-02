@@ -8,7 +8,7 @@ Provendo reatividade com estados globais e uso do padrão de projeto Observer
 #### Dados que afetam a interface e que são alterados durante o uso do aplicativo
 #### Esses dados podem ser globais (compartilhado) ou locais (interno a um componente)
 #### Dados locais tem como boa prática ser compartilhado entre componentes diretamente relacionados (pai e filho)
-#### Dados globais podem ser acessados e manipulados por qualquer componente da aplicação
+- Dados globais podem ser acessados e manipulados por qualquer componente da aplicação
 
 ### Funcionamento do Provider
 
